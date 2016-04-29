@@ -1,19 +1,19 @@
-// export a function for doing addition
+// addition
 exports.add = function(a, b) {
 	return a + b;
 };
 
-// export a function for doing subtraction
+// subtraction
 exports.subtract = function(a, b) {
 	return a - b;
 };
 
-// export a function for doing multiplication
+// multiplication
 exports.multipy = function(a, b) {
 	return a * b;
 };
 
-// export a function for doing division
+// division
 exports.divide = function(a, b) {
 	return a / b;
 };
